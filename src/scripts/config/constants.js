@@ -29,7 +29,7 @@
         browserNotification: false,
         rpcAlias: 'Pi-Hole Server',
         rpcHost: 'pihole.vincejv.com',
-        rpcPort: '6800',
+        rpcPort: '443',
         rpcInterface: 'aria2/jsonrpc',
         protocol: 'wss',
         httpMethod: 'POST',
