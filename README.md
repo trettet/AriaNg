@@ -46,13 +46,15 @@ Make sure you have [Node.js](https://nodejs.org/), [NPM](https://www.npmjs.com/)
 
 ##### Standard Version
 
+    $ sudo npm install -g npx
     $ npm install
-    $ gulp clean build
+    $ npx gulp clean build
 
 ##### All-In-One Version
 
+    $ sudo npm install -g npx
     $ npm install
-    $ gulp clean build-bundle
+    $ npx gulp clean build-bundle
 
 The builds will be placed in the dist directory.
 
